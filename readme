@@ -1,4 +1,10 @@
+Hands-on JDBC is different, but came more natural than JPA. The lab example in module two doesn't include any front end,
+so I hope this will suffice. I think I was coming closer to displaying it on a front end than I was with JPA
+
 https://www.youtube.com/watch?v=l_T0nQNbFiM
 
 https://www.springboottutorial.com/spring-boot-and-spring-jdbc-with-h2
 
+
+This is the project but in a little messed up JPA
+https://github.com/SonesCoding/Sones_Springboot_Mod2JPA
